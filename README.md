@@ -1,13 +1,13 @@
 # 🔧 Predictive Maintenance System
 
-## 🚀 Overview
+##  Overview
 
 An **AI/ML-based predictive maintenance project** designed to predict industrial machine failures using sensor data.
 The system helps industries identify potential failures early, reduce downtime, and improve maintenance planning.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ✅ Sensor data preprocessing
 ✅ Feature selection & cleaning
@@ -17,7 +17,7 @@ The system helps industries identify potential failures early, reduce downtime, 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 🐍 **Python**
 📊 **Pandas**
@@ -27,7 +27,7 @@ The system helps industries identify potential failures early, reduce downtime, 
 
 ---
 
-## 📈 Workflow
+##  Workflow
 
 1️⃣ Collect machine sensor data
 2️⃣ Clean and preprocess data
@@ -37,7 +37,7 @@ The system helps industries identify potential failures early, reduce downtime, 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To build a smart maintenance system that helps industries:
 
@@ -48,7 +48,7 @@ To build a smart maintenance system that helps industries:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Joshitha Rani**
 Robotics & AI Engineering Student
