@@ -1,30 +1,58 @@
-# predictive-maintenance-system
-AI/ML project for predicting industrial machine failures using sensor data and predictive analytics.
+# 🔧 Predictive Maintenance System
 
-## Overview
+## 🚀 Overview
 
-This project uses Machine Learning to predict industrial machine failures using sensor data.
+An **AI/ML-based predictive maintenance project** designed to predict industrial machine failures using sensor data.
+The system helps industries identify potential failures early, reduce downtime, and improve maintenance planning.
 
-## Features
+---
 
-* Data preprocessing
-* Feature selection
-* Model training
-* Failure prediction
-* Streamlit web interface
+## ✨ Key Features
 
-## Tech Stack
+✅ Sensor data preprocessing
+✅ Feature selection & cleaning
+✅ Machine failure prediction using ML models
+✅ Performance evaluation & accuracy testing
+✅ User-friendly Streamlit interface
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Streamlit
+---
 
-## Purpose
+## 🛠️ Tech Stack
 
-To reduce downtime and improve maintenance planning using predictive analytics.
+🐍 **Python**
+📊 **Pandas**
+🔢 **NumPy**
+🤖 **Scikit-learn**
+🌐 **Streamlit**
 
-## Author
+---
 
-Joshitha Rani
+## 📈 Workflow
+
+1️⃣ Collect machine sensor data
+2️⃣ Clean and preprocess data
+3️⃣ Train ML model
+4️⃣ Predict possible failures
+5️⃣ Display results in web app
+
+---
+
+## 🎯 Objective
+
+To build a smart maintenance system that helps industries:
+
+* ⏳ Reduce unexpected breakdowns
+* 💰 Lower repair costs
+* ⚙️ Improve machine efficiency
+* 📅 Plan maintenance schedules better
+
+---
+
+## 👩‍💻 Author
+
+**Joshitha Rani**
+Robotics & AI Engineering Student
+
+---
+
+⭐ *Using AI to make machines smarter and industries more efficient.*
